@@ -36,6 +36,8 @@ npm-registry-switch -h
     get|g             get registry
     reset|r           reset to npm official registry
 
+  Switch npm registry in a easy way
+
   Options:
 
     -h, --help     output usage information

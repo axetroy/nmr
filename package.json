@@ -1,7 +1,7 @@
 {
   "name": "@axetroy/npm-registry-switch",
   "version": "0.1.0",
-  "description": "",
+  "description": "Switch npm registry in a easy way",
   "main": "index.js",
   "scripts": {
     "test": "ava",
