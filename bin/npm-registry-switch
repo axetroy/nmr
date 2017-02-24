@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+require('colors');
+const co = require('co');
+
+co(function *() {
+  require('../lib/npm-registry-switch');
+}).catch(function (err) {
+  console.error(err);
+});

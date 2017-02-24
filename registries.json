@@ -1,0 +1,25 @@
+{
+  "registries": [
+    {
+      "name": "npm official",
+      "url": "https://registry.npmjs.org",
+      "default": true
+    },
+    {
+      "name": "npm official mirror",
+      "url": "https://skimdb.npmjs.com/registry"
+    },
+    {
+      "name": "npm official mirror",
+      "url": "https://github.com/npm/npm-registry-couchapp"
+    },
+    {
+      "name": "taobao mirror",
+      "url": "https://registry.npm.taobao.org"
+    },
+    {
+      "name": "taobao mirror",
+      "url": "https://r.cnpmjs.org"
+    }
+  ]
+}

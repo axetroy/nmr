@@ -1,0 +1,42 @@
+{
+  "name": "@axetroy/npm-registry-switch",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "coverage": "echo coverage done",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axetroy/npm-registry-switch.git"
+  },
+  "author": "axetroy",
+  "contributors": [
+    {
+      "name": "Axetroy",
+      "email": "troy450409405@gmail.com",
+      "url": "https://axetroy.github.io/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axetroy/npm-registry-switch/issues"
+  },
+  "bin": "./bin/npm-registry-switch",
+  "preferGlobal": true,
+  "homepage": "https://github.com/axetroy/npm-registry-switch#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "cross-spawn": "^5.0.1",
+    "inquirer": "^3.0.4"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "conventional-changelog": "^1.1.0"
+  }
+}
