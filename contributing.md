@@ -18,7 +18,7 @@ Please keep in mind that open source software is built by people like you, who s
 
 Don't have time to contribute? No worries, here are some other ways to show your support for axetroy:
 
-- star the [project](https://github.com/axetroy/npm-registry-switch#readme)
+- star the [project](https://github.com/axetroy/nmr#readme)
 - tweet your support for axetroy
 
 ## Issues

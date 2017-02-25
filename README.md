@@ -1,13 +1,13 @@
-# npm-registry-switch
+# Npm Mirror Registry
 
-[![Build Status](https://travis-ci.org/axetroy/npm-registry-switch.svg?branch=master)](https://travis-ci.org/axetroy/npm-registry-switch)
-[![Dependency](https://david-dm.org/axetroy/npm-registry-switch.svg)](https://david-dm.org/axetroy/npm-registry-switch)
+[![Build Status](https://travis-ci.org/axetroy/nmr.svg?branch=master)](https://travis-ci.org/axetroy/nmr)
+[![Dependency](https://david-dm.org/axetroy/nmr.svg)](https://david-dm.org/axetroy/nmr)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node](https://img.shields.io/badge/node-%3E=6.9-blue.svg?style=flat-square)
 
 a cli tool to get/set/switch npm registry
 
-![](https://raw.githubusercontent.com/axetroy/npm-registry-switch/master/screenshot.png)
+![](https://raw.githubusercontent.com/axetroy/nmr/master/screenshot.png)
 
 ## Requirement
 
@@ -23,7 +23,7 @@ a cli tool to get/set/switch npm registry
 ## Installation
 
 ```bash
-npm install @axetroy/npm-registry-switch -g
+npm install @axetroy/nmr -g
 ```
 
 ## Usage
@@ -31,9 +31,9 @@ npm install @axetroy/npm-registry-switch -g
 ### Command line
 
 ```bash
-npm-registry-switch -h
+nmr -h
 
-  Usage: npm-registry-switch <command> [options]
+  Usage: nmr <command> [options]
 
 
   Commands:
@@ -55,7 +55,7 @@ npm-registry-switch -h
 
 ```javascript
 const co = require('co');
-const npmRegistrySwitch = require('@axetroy/npm-registry-switch');
+const npmRegistrySwitch = require('@axetroy/nmr');
 
 co(function*() {
   yield npmRegistrySwitch.get();    // https://registry.npmjs.org
@@ -82,14 +82,14 @@ such as said, I hate type ``npm config set registry https://xxxxxxxx``
 ## Contribute
 
 ```bash
-git clone https://github.com/axetroy/npm-registry-switch.git
-cd ./npm-registry-switch
+git clone https://github.com/axetroy/nmr.git
+cd ./nmr
 yarn
-./bin/npm-registry-switch
+./bin/nmr
 ```
 
-You can flow [Contribute Guide](https://github.com/axetroy/npm-registry-switch/blob/master/contributing.md)
+You can flow [Contribute Guide](https://github.com/axetroy/nmr/blob/master/contributing.md)
 
 ## License
 
-The [MIT License](https://github.com/axetroy/npm-registry-switch/blob/master/LICENSE)
+The [MIT License](https://github.com/axetroy/nmr/blob/master/LICENSE)

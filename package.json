@@ -1,7 +1,7 @@
 {
-  "name": "@axetroy/npm-registry-switch",
+  "name": "@axetroy/nmr",
   "version": "0.1.0",
-  "description": "Switch npm registry in a easy way",
+  "description": "Npm Mirror Registry, handle npm registry in a easy way",
   "main": "index.js",
   "scripts": {
     "test": "ava",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axetroy/npm-registry-switch.git"
+    "url": "git+https://github.com/axetroy/nmr.git"
   },
   "author": "axetroy",
   "contributors": [
@@ -22,11 +22,11 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/axetroy/npm-registry-switch/issues"
+    "url": "https://github.com/axetroy/nmr/issues"
   },
-  "bin": "./bin/npm-registry-switch",
+  "bin": "./bin/nmr",
   "preferGlobal": true,
-  "homepage": "https://github.com/axetroy/npm-registry-switch#readme",
+  "homepage": "https://github.com/axetroy/nmr#readme",
   "dependencies": {
     "bluebird": "^3.4.7",
     "co": "^4.6.0",

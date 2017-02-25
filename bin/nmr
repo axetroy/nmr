@@ -4,7 +4,7 @@ require('colors');
 const co = require('co');
 
 co(function *() {
-  require('../lib/npm-registry-switch');
+  require('../lib/nmr');
 }).catch(function (err) {
   console.error(err);
 });
