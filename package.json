@@ -37,6 +37,6 @@
   },
   "devDependencies": {
     "ava": "^0.18.2",
-    "conventional-changelog": "^1.1.0"
+    "conventional-changelog-cli": "^1.2.0"
   }
 }
