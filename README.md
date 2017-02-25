@@ -105,24 +105,24 @@ You can flow [Contribute Guide](https://github.com/axetroy/nmr/blob/master/contr
 <tbody>
 <tr>
   <td><a href="https://www.github.com/axetroy">axetroy</a></td>
-  <td>18</td>
-  <td>+3910(95.62%)</td>
-  <td>-139(3.40%)</td>
-  <td>4049(99.02%)</td>
-</tr>
-<tr>
-  <td><a href="https://www.github.com/GitHub">GitHub</a></td>
-  <td>1</td>
-  <td>+4(0.10%)</td>
-  <td>-5(0.12%)</td>
-  <td>9(0.22%)</td>
+  <td>19</td>
+  <td>+3962(95.47%)</td>
+  <td>-141(3.40%)</td>
+  <td>4103(98.87%)</td>
 </tr>
 <tr>
   <td><a href="https://www.github.com/wd">wd</a></td>
   <td>2</td>
-  <td>+22(0.54%)</td>
+  <td>+22(0.53%)</td>
   <td>-9(0.22%)</td>
-  <td>31(0.76%)</td>
+  <td>31(0.75%)</td>
+</tr>
+<tr>
+  <td><a href="https://www.github.com/WindomZ">WindomZ</a></td>
+  <td>2</td>
+  <td>+9(0.22%)</td>
+  <td>-7(0.17%)</td>
+  <td>16(0.39%)</td>
 </tr>
 </tbody>
 </table>
