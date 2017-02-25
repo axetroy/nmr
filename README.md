@@ -2,6 +2,7 @@
 
 a cli tool to get/set/switch npm registry
 
+![](https://raw.githubusercontent.com/axetroy/npm-registry-switch/blob/master/screenshot.png)
 
 ## Requirement
 
