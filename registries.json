@@ -2,24 +2,30 @@
   "registries": [
     {
       "name": "npm official",
-      "url": "https://registry.npmjs.org",
+      "url": "https://registry.npmjs.org/",
+      "tag": "npm",
       "default": true
     },
     {
       "name": "npm official mirror",
-      "url": "https://skimdb.npmjs.com/registry"
+      "url": "https://skimdb.npmjs.com/registry",
+      "tag": "npm"
     },
     {
       "name": "npm official mirror",
-      "url": "https://github.com/npm/npm-registry-couchapp"
+      "url": "https://github.com/npm/npm-registry-couchapp",
+      "tag": "npm"
     },
     {
       "name": "taobao mirror",
-      "url": "https://registry.npm.taobao.org"
+      "url": "https://registry.npm.taobao.org/",
+      "tag": "taobao",
+      "default": true
     },
     {
       "name": "taobao mirror",
-      "url": "https://r.cnpmjs.org"
+      "url": "https://r.cnpmjs.org/",
+      "tag": "taobao"
     }
   ]
 }
