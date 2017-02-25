@@ -1,5 +1,10 @@
 # npm-registry-switch
 
+[![Build Status](https://travis-ci.org/axetroy/npm-registry-switch.svg?branch=master)](https://travis-ci.org/axetroy/npm-registry-switch)
+[![Dependency](https://david-dm.org/axetroy/npm-registry-switch.svg)](https://david-dm.org/axetroy/npm-registry-switch)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Node](https://img.shields.io/badge/node-%3E=6.9-blue.svg?style=flat-square)
+
 a cli tool to get/set/switch npm registry
 
 ![](https://raw.githubusercontent.com/axetroy/npm-registry-switch/master/screenshot.png)
@@ -83,7 +88,7 @@ yarn
 ./bin/npm-registry-switch
 ```
 
-You can flow [Contribute Guide](https://github.com/axetroy/gpm/blob/master/contributing.md)
+You can flow [Contribute Guide](https://github.com/axetroy/npm-registry-switch/blob/master/contributing.md)
 
 ## License
 
