@@ -38,9 +38,9 @@ npm-registry-switch -h
 
   Commands:
 
-    set|s <registry>  set registry
-    get|g             get registry
-    reset|r           reset to npm official registry
+    set|s <registry>    set registry
+    get|g               get registry
+    reset|r [options]   reset to npm official registry
 
   Switch npm registry in a easy way
 
