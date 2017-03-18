@@ -15,8 +15,13 @@ function reset(options) {
   return co(require('./lib/commands/reset')(options));
 }
 
+function list(options) {
+  return co(require('./lib/commands/list')(options));
+}
+
 module.exports = {
   get,
   set,
-  reset
+  reset,
+  list
 };
