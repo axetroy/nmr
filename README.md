@@ -44,6 +44,7 @@ nmr -h
     get|g               get registry
     reset|r [options]   reset to npm official registry
     list|ls             print out the registries
+    switch|sw           switch the npm registry
 
   Npm Mirror Registry, handle npm registry in a easy way
 
