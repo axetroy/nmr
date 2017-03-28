@@ -33,25 +33,31 @@ npm install @axetroy/nmr -g
 ### Command line
 
 ```bash
-nmr -h
+$ nmr -h
 
-  Usage: nmr <command> [options]
+   nmr 1.2.0 - Npm Mirror Registry, handle npm registry in a easy way
 
+   USAGE
 
-  Commands:
+     nmr <command> [options]
 
-    set|s <registry>    set registry
-    get|g               get registry
-    reset|r [options]   reset to npm official registry
-    list|ls             print out the registries
-    switch|sw           switch the npm registry
+   COMMANDS
 
-  Npm Mirror Registry, handle npm registry in a easy way
+                          Default command
+     set <registry>       set registry
+     get                  get registry
+     reset                reset to npm official registry
+     list                 print out the registries
+     switch               switch the npm registry
+     help <command>       Display help for a specific command
 
-  Options:
+   GLOBAL OPTIONS
 
-    -h, --help     output usage information
-    -V, --version  output the version number
+     -h, --help         Display help
+     -V, --version      Display version
+     --no-color         Disable colors
+     --quiet            Quiet mode - only displays warn and error messages
+     -v, --verbose      Verbose mode - will also output debug messages
 
 ```
 
