@@ -3,8 +3,8 @@
 require('colors');
 const co = require('co');
 
-co(function *() {
+co(function*() {
   require('../lib/nmr');
-}).catch(function (err) {
+}).catch(function(err) {
   console.error(err);
 });
