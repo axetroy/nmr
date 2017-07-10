@@ -2,7 +2,7 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/nmr.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/nmr.svg?branch=master)](https://travis-ci.org/axetroy/nmr)
-[![Dependency](https://david-dm.org/axetroy/nmr.svg)](https://david-dm.org/axetroy/@axetroy/nmr)
+[![Dependency](https://david-dm.org/axetroy/@axetroy/nmr.svg)](https://david-dm.org/axetroy/@axetroy/nmr)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node](https://img.shields.io/badge/node-%3E=6.9-blue.svg?style=flat-square)
 
