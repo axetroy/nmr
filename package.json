@@ -1,6 +1,6 @@
 {
   "name": "@axetroy/nmr",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Npm Mirror Registry, handle npm registry in a easy way",
   "main": "index.js",
   "scripts": {
