@@ -30,7 +30,7 @@
   "homepage": "https://github.com/axetroy/nmr#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "caporal": "^0.8.0",
+    "caporal": "^0.9.0",
     "co": "^4.6.0",
     "colors": "^1.1.2",
     "commander": "^2.11.0",
