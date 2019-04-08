@@ -30,16 +30,16 @@
   "homepage": "https://github.com/axetroy/nmr#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "caporal": "^0.10.0",
+    "caporal": "^1.1.0",
     "co": "^4.6.0",
     "colors": "^1.1.2",
     "commander": "^2.11.0",
     "cross-spawn": "^6.0.0",
-    "inquirer": "^5.0.0"
+    "inquirer": "^6.2.2"
   },
   "devDependencies": {
-    "ava": "^0.25.0",
+    "ava": "^1.4.1",
     "contributors-stat": "^1.1.1",
-    "conventional-changelog-cli": "^1.3.1"
+    "conventional-changelog-cli": "^2.0.12"
   }
 }
